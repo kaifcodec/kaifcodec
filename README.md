@@ -13,7 +13,7 @@ Hey there! I'm **Kaif** 👋, a developer fueled by curiosity and a passion for 
 -   🌱 **Always Learning**: Exploring the endless possibilities of **Advanced AI** and mastering the art of **Cloud-Native Architecture**.
 -   💬 **Let's Talk**: I'm game for discussions on **Python**, **JavaScript**, **React**, or anything that sparks your tech interest!
 -   📫 **Get In Touch**: Drop me a line at [kaifcodec@gmail.com](mailto:kaifcodec@gmail.com)
--   ⚡ **Fun Fact**: When I'm not coding, you'll find me lost in the world of video games or geeking out over sci-fi flicks.
+
 
 ---
 
