@@ -3,7 +3,7 @@
 Hey there! I'm **Kaif** 👋, a developer fueled by curiosity and a passion for crafting digital magic. I love turning ideas into reality, and my GitHub is where I share my adventures in code. Buckle up, it's going to be an exciting ride!
 
 ![Code in Motion](https://media.tenor.com/GfSX-u7VGM4AAAAd/coding.gif)
-![Code in Motion](https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif)
+
 
 ---
 
