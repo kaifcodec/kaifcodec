@@ -1,4 +1,4 @@
-#   🌟 Welcome to My Digital Playground! 🌟
+#   🌟 Welcome to My Digital Playground!
 
 Hey there! I'm **Kaif** 👋, a developer fueled by curiosity and a passion for crafting digital magic. I love turning ideas into reality, and my GitHub is where I share my adventures in code. Buckle up, it's going to be an exciting ride!
 
