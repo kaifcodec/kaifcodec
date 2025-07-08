@@ -50,18 +50,4 @@ Hey there! I'm **Kaif** 👋, a developer fueled by curiosity and a passion for 
 
 ---
 
-##   🚀 Let's Dive into Code!
-
-
-
----
-
-##   🤝 Connect With Me
-
-
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/kaifcodec)
-
-
----
-
 
