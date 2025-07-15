@@ -37,7 +37,7 @@ Hey there! I'm **Kaif** 👋, a developer fueled by curiosity and a passion for 
 
 ##   🌟 Featured Creations
 
-🎯 **[YouTube Converter](https://github.com/kaifcodec/ytconverter.git)**  
+🎯 **[YTconverter](https://github.com/kaifcodec/ytconverter.git)**  
 > A handy tool to download YouTube videos directly from the command line. Your personal video downloader!  
 > ![Repo Stars](https://img.shields.io/github/stars/kaifcodec/ytconverter?style=social)  
 > ![Repo Forks](https://img.shields.io/github/forks/kaifcodec/ytconverter?style=social)
