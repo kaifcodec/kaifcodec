@@ -37,17 +37,18 @@ Hey there! I'm **Kaif** 👋, a developer fueled by curiosity and a passion for 
 
 ##   🌟 Featured Creations
 
+🎯 **[YouTube Converter](https://github.com/kaifcodec/ytconverter.git)**  
+> A handy tool to download YouTube videos directly from the command line. Your personal video downloader!  
+> ![Repo Stars](https://img.shields.io/github/stars/kaifcodec/ytconverter?style=social)  
+> ![Repo Forks](https://img.shields.io/github/forks/kaifcodec/ytconverter?style=social)
 
-🎯 **[YouTube Converter](https://github.com/kaifcodec/ytconverter.git)**
+🎯 **[Terminal Chat](https://github.com/kaifcodec/Term-chat.git)**  
+> A fun project that allows you to chat with others right from your terminal. Who says the command line can't be social?
 
->   A handy tool to download YouTube videos directly from the command line. Your personal video downloader!
->   ![Repo Stars](https://img.shields.io/github/stars/kaifcodec/ytconverter?style=social)
->   ![Repo Forks](https://img.shields.io/github/forks/kaifcodec/ytconverter?style=social)
+🎯 **[InstaFinder](https://github.com/kaifcodec/InstaFinder)**  
+> A Python tool to discover Instagram user IDs by traversing Instagram's suggested user chains. Recursively searches by keywords (names), maintains search state, and organizes results. Ideal for researchers, automation, or OSINT workflows.  
 
-🎯 **[Terminal Chat](https://github.com/kaifcodec/Term-chat.git)**
-
->   A fun project that allows you to chat with others right from your terminal. Who says the command line can't be social?
+🎯 **[InstaScrape](https://github.com/kaifcodec/InstaScrape)**  
+> A command‑line Python tool that grabs all parent comments from public Instagram Reels using session cookies. Fast, efficient, with a slick progress bar. Perfect for analysts, sentiment mining, or just satisfying your curiosity.  
 
 ---
-
-
