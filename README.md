@@ -1,20 +1,13 @@
 #   🌟 Welcome to My Digital Playground!
 
 Hey there! I'm **Kaif** 👋, a developer fueled by curiosity and a passion for crafting digital magic. I love turning ideas into reality, and my GitHub is where I share my adventures in code. Buckle up, it's going to be an exciting ride!
-
-![Code in Motion](https://media.tenor.com/GfSX-u7VGM4AAAAd/coding.gif)
-
-
 ---
-
 ##   🧑‍💻 About Me
 
 -   🔭 **Currently Building**: Cutting-edge **Full-Stack Applications** and diving deep into the wonders of **Machine Learning**.
 -   🌱 **Always Learning**: Exploring the endless possibilities of **Advanced AI** and mastering the art of **Cloud-Native Architecture**.
 -   💬 **Let's Talk**: I'm game for discussions on **Python**, **JavaScript**, **React**, or anything that sparks your tech interest!
 -   📫 **Get In Touch**: Drop me a line at [kaifcodec@gmail.com](mailto:kaifcodec@gmail.com)
-
-
 ---
 
 ##   🛠️ My Tech Arsenal
