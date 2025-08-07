@@ -23,7 +23,6 @@
 ##   📊 My GitHub Vitals
 
 ![Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaifcodec&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifcodec&layout=compact&theme=radical)
 
 ---
 
