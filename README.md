@@ -1,4 +1,4 @@
-#   🌟 Welcome to My Digital Playground!
+# ⭐  Welcome to My Digital Playground!
 
 ---
 ##   🧑‍💻 About Me
@@ -29,18 +29,24 @@
 
 ##   🌟 Featured Creations
 
-🎯 **[YTconverter](https://github.com/kaifcodec/ytconverter.git)**  
+🎯 **[YTConverter™](https://github.com/kaifcodec/ytconverter.git)**  
 > A handy tool to download YouTube videos directly from the command line. Your personal video downloader!  
 > ![Repo Stars](https://img.shields.io/github/stars/kaifcodec/ytconverter?style=social)  
 > ![Repo Forks](https://img.shields.io/github/forks/kaifcodec/ytconverter?style=social)
-
-🎯 **[Terminal Chat](https://github.com/kaifcodec/Term-chat.git)**  
-> A fun project that allows you to chat with others right from your terminal. Who says the command line can't be social?
 
 🎯 **[InstaFinder](https://github.com/kaifcodec/InstaFinder)**  
 > A Python tool to discover Instagram user IDs by traversing Instagram's suggested user chains. Recursively searches by keywords (names), maintains search state, and organizes results. Ideal for researchers, automation, or OSINT workflows.  
 
 🎯 **[InstaScrape](https://github.com/kaifcodec/InstaScrape)**  
-> A command‑line Python tool that grabs all parent comments from public Instagram Reels using session cookies. Fast, efficient, with a slick progress bar. Perfect for analysts, sentiment mining, or just satisfying your curiosity.  
+> A command‑line Python tool that grabs all parent comments from public Instagram Reels using session cookies. Fast, efficient, with a slick progress bar. Perfect for analysts, sentiment mining, or just satisfying your curiosity.
+
+🎯 **[apk-patchx](https://github.com/kaifcodec/apk-patchx)**  
+> A command-line tool that makes APK manipulation fast, modular, and developer-friendly. Designed for patching, merging, and automating APK workflows with ease.
+
+🎯 **[ApiBrute](https://github.com/kaifcodec/ApiBrute)**  
+> An async API bruteforcer built using asyncio + httpx. Quickly scans target URLs with wordlists to discover valid endpoints, hidden admin panels, and API routes. Ideal for recon, bug bounty workflows, or general endpoint mapping.
+
+🎯 **[Terminal Chat](https://github.com/kaifcodec/Term-chat.git)**  
+> A fun project that allows you to chat with others right from your terminal. Who says the command line can't be social?
 
 ---
