@@ -1,7 +1,7 @@
-# ⭐  Welcome to My Digital Playground!
+#   Welcome to My Digital Playground!
 
 ---
-##   🧑‍💻 About Me
+##    About Me
 
 -   🔭 **Currently Building**: Cutting-edge **Full-Stack Applications** and diving deep into the wonders of **Machine Learning**.
 -   🌱 **Always Learning**: Exploring the endless possibilities of **Advanced AI** and mastering the art of **Cloud-Native Architecture**.
