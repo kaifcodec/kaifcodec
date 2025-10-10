@@ -19,14 +19,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloud](https://img.shields.io/badge/-Cloud-0A66C2?style=for-the-badge&logo=icloud&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=KaifCodec&label=Profile%20views&color=0e75b6&style=flat)
-
 ---
 
 ##   📊 My GitHub Vitals
 
 ![Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaifcodec&show_icons=true&theme=radical)
-
+- Since 10/10/2025   
+![Profile views](https://komarev.com/ghpvc/?username=KaifCodec&label=👁‍🗨%20Profile%20Views&color=0078ff&style=for-the-badge) 
 ---
 
 ##   🌟 Featured Creations
