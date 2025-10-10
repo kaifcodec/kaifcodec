@@ -24,7 +24,7 @@
 ##   📊 My GitHub Vitals
 
 ![Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaifcodec&show_icons=true&theme=radical)
-- Since 10/10/2025   
+- Counting since 10/10/2025   
 ![Profile views](https://komarev.com/ghpvc/?username=KaifCodec&label=👁‍🗨%20Profile%20Views&color=0078ff&style=for-the-badge) 
 ---
 
