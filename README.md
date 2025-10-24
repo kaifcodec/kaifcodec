@@ -33,10 +33,9 @@
 🎯 **[YTConverter™](https://github.com/kaifcodec/ytconverter.git)**  
 > A handy tool to download YouTube videos directly from the command line. Your personal video downloader!  
 > ![Repo Stars](https://img.shields.io/github/stars/kaifcodec/ytconverter?style=social)  
-> ![Repo Forks](https://img.shields.io/github/forks/kaifcodec/ytconverter?style=social)
 
-🎯 **[InstaFinder](https://github.com/kaifcodec/InstaFinder)**  
-> A Python tool to discover Instagram user IDs by traversing Instagram's suggested user chains. Recursively searches by keywords (names), maintains search state, and organizes results. Ideal for researchers, automation, or OSINT workflows.  
+🎯 **[User Scanner](https://github.com/kaifcodec/user-scanner)**  
+> Scan a username across multiple social, developer, and creator platforms to see if it’s available. Perfect for finding a unique username across GitHub, Twitter, Reddit, Instagram, and more, all in one command. Can also be used as username OSINT tool
 
 🎯 **[InstaScrape](https://github.com/kaifcodec/InstaScrape)**  
 > A command‑line Python tool that grabs all parent comments from public Instagram Reels using session cookies. Fast, efficient, with a slick progress bar. Perfect for analysts, sentiment mining, or just satisfying your curiosity.
