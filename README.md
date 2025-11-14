@@ -19,6 +19,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloud](https://img.shields.io/badge/-Cloud-0A66C2?style=for-the-badge&logo=icloud&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ---
 
 ##   📊 My GitHub Vitals
