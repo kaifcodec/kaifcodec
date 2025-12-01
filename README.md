@@ -28,7 +28,6 @@
 ![Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaifcodec&show_icons=true&theme=radical)
 - Counting since 10/10/2025   
 ![Profile views](https://komarev.com/ghpvc/?username=kaifcodec&label=👁‍🗨%20Profile%20Views&color=0078ff&style=for-the-badge) 
----
 
 <!---##   🌟 Featured Creations :
 
