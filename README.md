@@ -30,9 +30,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=kaifcodec&label=👁‍🗨%20Profile%20Views&color=0078ff&style=for-the-badge) 
 ---
 
-##   🌟 Featured Creations
+##   🌟 Featured Creations :
 
-🎯 **[YTConverter™](https://github.com/kaifcodec/ytconverter.git)**  
+<!--- 🎯 **[YTConverter™](https://github.com/kaifcodec/ytconverter.git)**  
 > A handy tool to download YouTube videos directly from the command line. Your personal video downloader!  
 > ![Repo Stars](https://img.shields.io/github/stars/kaifcodec/ytconverter?style=social)  
 
@@ -49,6 +49,4 @@
 > An async API bruteforcer built using asyncio + httpx. Quickly scans target URLs with wordlists to discover valid endpoints, hidden admin panels, and API routes. Ideal for recon, bug bounty workflows, or general endpoint mapping.
 
 🎯 **[Terminal Chat](https://github.com/kaifcodec/Term-chat.git)**  
-> A fun project that allows you to chat with others right from your terminal. Who says the command line can't be social?
-
----
+> A fun project that allows you to chat with others right from your terminal. Who says the command line can't be social? --->
