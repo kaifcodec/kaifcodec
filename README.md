@@ -3,13 +3,13 @@
 ---
 ##    About Me
 
--   🔭 **Currently Building**: Cutting-edge **Full-Stack Applications** and diving deep into the wonders of **Machine Learning**.
--   🌱 **Always Learning**: Exploring the endless possibilities of **Advanced AI** and mastering the art of **Cloud-Native Architecture**.
--   💬 **Let's Talk**: I'm game for discussions on **Python**, **JavaScript**, **React**, or anything that sparks your tech interest!
--   📫 **Get In Touch**: Drop me a line at [kaifcodec@gmail.com](mailto:kaifcodec@gmail.com)
+-    **Currently Building**: Cutting-edge **Full-Stack Applications** and diving deep into the wonders of **Machine Learning**.
+-    **Always Learning**: Exploring the endless possibilities of **Advanced AI** and mastering the art of **Cloud-Native Architecture**.
+-    **Let's Talk**: I'm game for discussions on **Python**, **JavaScript**, **React**, or anything that sparks your tech interest!
+-    **Get In Touch**: Drop me a line at [kaifcodec@gmail.com](mailto:kaifcodec@gmail.com)
 ---
 
-## 🛠️ My Tech Arsenal
+##  My Tech Arsenal
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,7 +23,7 @@
 
 ---
 
-##   📊 My GitHub Vitals
+##   My GitHub Vitals
 
 ![Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaifcodec&show_icons=true&theme=radical)
 - Counting since 10/10/2025   
