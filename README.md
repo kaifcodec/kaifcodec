@@ -37,6 +37,7 @@
 --->
  **[User Scanner](https://github.com/kaifcodec/user-scanner)**  
 > Scan a username across multiple social, developer, and creator platforms to see if it’s available. Perfect for finding a unique username across GitHub, Twitter, Reddit, Instagram, and more, all in one command. Can also be used as username OSINT tool
+
 > ![Repo Stars](https://img.shields.io/github/stars/kaifcodec/user-scanner?style=social)
 
  **[InstaScrape](https://github.com/kaifcodec/InstaScrape)**  
