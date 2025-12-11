@@ -34,18 +34,19 @@
  🎯 **[YTConverter™](https://github.com/kaifcodec/ytconverter.git)**  
 > A handy tool to download YouTube videos directly from the command line. Your personal video downloader!  
 > ![Repo Stars](https://img.shields.io/github/stars/kaifcodec/ytconverter?style=social)  
-
-🎯 **[User Scanner](https://github.com/kaifcodec/user-scanner)**  
+--->
+ **[User Scanner](https://github.com/kaifcodec/user-scanner)**  
 > Scan a username across multiple social, developer, and creator platforms to see if it’s available. Perfect for finding a unique username across GitHub, Twitter, Reddit, Instagram, and more, all in one command. Can also be used as username OSINT tool
+> ![Repo Stars](https://img.shields.io/github/stars/kaifcodec/user-scanner?style=social)
 
-🎯 **[InstaScrape](https://github.com/kaifcodec/InstaScrape)**  
+ **[InstaScrape](https://github.com/kaifcodec/InstaScrape)**  
 > A command‑line Python tool that grabs all parent comments from public Instagram Reels using session cookies. Fast, efficient, with a slick progress bar. Perfect for analysts, sentiment mining, or just satisfying your curiosity.
 
-🎯 **[apk-patchx](https://github.com/kaifcodec/apk-patchx)**  
+ **[apk-patchx](https://github.com/kaifcodec/apk-patchx)**  
 > A command-line tool that makes APK manipulation fast, modular, and developer-friendly. Designed for patching, merging, and automating APK workflows with ease.
 
-🎯 **[ApiBrute](https://github.com/kaifcodec/ApiBrute)**  
+ **[ApiBrute](https://github.com/kaifcodec/ApiBrute)**  
 > An async API bruteforcer built using asyncio + httpx. Quickly scans target URLs with wordlists to discover valid endpoints, hidden admin panels, and API routes. Ideal for recon, bug bounty workflows, or general endpoint mapping.
-
+<!---
 🎯 **[Terminal Chat](https://github.com/kaifcodec/Term-chat.git)**  
 > A fun project that allows you to chat with others right from your terminal. Who says the command line can't be social? --->
