@@ -54,4 +54,4 @@
 🎯 **[Terminal Chat](https://github.com/kaifcodec/Term-chat.git)**  
 > A fun project that allows you to chat with others right from your terminal. Who says the command line can't be social? --->
 
-![Profile views](https://komarev.com/ghpvc/?username=kaifcodec&label=👁‍🗨%20Profile%20Views&color=0078ff&style=for-the-badge) 
+![.](https://komarev.com/ghpvc/?username=kaifcodec&label=&color=0078ff&style=for-the-badge) 
